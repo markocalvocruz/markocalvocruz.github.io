@@ -434,7 +434,9 @@ textarea {
   width: 1px;
   /* 1 */
 }
-
+.resume-btn:hover {
+    background-color: #d46895;
+}
 /*
 * Extends the .sr-only class to allow the element
 * to be focusable when navigated to via the keyboard:
